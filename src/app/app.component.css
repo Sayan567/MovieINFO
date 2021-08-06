@@ -1,0 +1,50 @@
+.logo {
+    width: 10rem;
+
+}
+.header-wrapper{
+    display: flex;
+    justify-content:space-around;
+    flex:1;
+
+}
+
+.body-container{
+    background: radial-gradient(#000000 , #000000);
+
+}
+
+.header {
+    background: linear-gradient(to bottom , black , black);
+
+}
+.logo-container {
+    flex:1;
+}
+
+.btn {
+    background: rgb(25, 0, 255);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 7px 17px;
+    text-align: center;
+    text-decoration: none !important;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.btn:hover {
+    color: white;
+
+}
+p  {
+    color: #999999 !important;
+}
+.footer a {
+    color: rgb(25, 0, 255) !important;
+}
+a:hover{
+    text-decoration: none;
+}
