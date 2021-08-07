@@ -52,12 +52,12 @@ img {
   top: 0.4rem;
 }
 .bookmark_icon:hover{
-  color: rgb(25, 0, 255);
+  color: rgb(55, 0, 255);
 
 }
 
 h5:hover {
-  color: rgb(25, 0, 255);
+  color: rgb(0, 17, 255);
 }
 
 .movie-title {
@@ -109,5 +109,5 @@ h3 {
 }
 
 .active{
-  color:rgb(25, 0, 255) !important;
+  color:rgb(0, 26, 255) !important;
 }
