@@ -1,30 +1,14 @@
-# MovieMark
-
 ## About
-⭐ A website that bookmarks your favourite movies. <br/>
-⭐ Fetches movie details from OMDb API - http://www.omdbapi.com/ <br/>
-⭐ Stores bookmarked movies in Local Storage. <br/>
-⭐ Built using Angular 11 and Nebular UI Library. <br/>
-⭐ Hosted on Firebase - https://moviemark-harshita.web.app/ <br/>
-⭐ UI inspired by Netflix. <br/>
-<hr/>
-
-![image](https://user-images.githubusercontent.com/65803563/112189304-e2b51c80-8c29-11eb-9538-8be21cfa557e.png)
-
-<hr/>
-
-![image](https://user-images.githubusercontent.com/65803563/112189534-1c862300-8c2a-11eb-857b-a8e2ff80d488.png)
-
-<hr/>
-
-![image](https://user-images.githubusercontent.com/65803563/112189727-4ccdc180-8c2a-11eb-94dd-8317d27f4b18.png)
-
-<hr/>
+A website that bookmarks your favourite movies. <br/>
+Fetches movie details from OMDb API - http://www.omdbapi.com/ <br/>
+Stores bookmarked movies in Local Storage. <br/>
+Built using Angular 11 and Nebular UI Library. <br/>
+Hosted on Firebase - https://moviesearchnew.web.app/ <br/>
 
 
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12
 
 ## Development server
 
