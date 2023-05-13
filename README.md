@@ -3,7 +3,7 @@ A website that bookmarks your favourite movies. <br/>
 Fetches movie details from OMDb API - http://www.omdbapi.com/ <br/>
 Stores bookmarked movies in Local Storage. <br/>
 Built using Angular 11 and Nebular UI Library. <br/>
-Hosted on Firebase - https://moviesearchnew.web.app/ <br/>
+Hosted on Firebase - https://moviesearch1.web.app/ <br/>
 
 
 
